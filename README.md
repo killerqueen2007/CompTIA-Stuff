@@ -6,4 +6,3 @@ This repository provides two ways to use it:
 
 - **Bookmarklet** – Quick and easy, works on-the-fly on any chapter page.
 
-- **Chrome Extension** – Automatically loads on all chapter pages, including SPA navigation, and starts the timer after the page fully loads.
