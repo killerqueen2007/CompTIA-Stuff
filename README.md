@@ -5,7 +5,6 @@ A simple **1 minute 20 second countdown timer** for CompTIA chapter pages that a
 ## How to set it up
 
 1. **Copy the code** from this link:  
-   [CompTIA Bookmark.js](https://raw.githubusercontent.com/killerqueen2007/CompTIA-Count-down-timer/refs/heads/main/CompTIA/Bookmark.js)
 
 2. **Enable the bookmarks bar** in your browser (shortcut: `Ctrl + Shift + B`).
 
