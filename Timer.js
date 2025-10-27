@@ -1,3 +1,4 @@
+javascript:
 const timerBox = document.createElement("div");
 Object.assign(timerBox.style, {
   position: "fixed",
@@ -59,3 +60,4 @@ startCountdown();
 
   window.addEventListener('popstate', onUrlChange);
 })();
+
